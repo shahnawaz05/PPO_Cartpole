@@ -1,0 +1,6 @@
+# Use Python 3.10–3.12 for reliable PyTorch on Windows (3.14+ may hit DLL issues until wheels mature).
+gymnasium>=0.29.0
+numpy>=1.24.0
+torch>=2.0.0
+matplotlib>=3.7.0
+
